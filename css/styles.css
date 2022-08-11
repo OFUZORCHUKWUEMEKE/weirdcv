@@ -1,0 +1,28 @@
+   
+        body{
+            background-color: powderblue;
+        }
+        hr{
+           border-style: none;
+           border-top-style: dotted;
+           border-width: 5px;
+           border-color: grey;
+           width: 10%;}
+           h3{
+            color: #66bfbf
+        }
+        h1{
+            color: #66bfbf;
+          }   
+
+          /****************** ID SELECTORS ******************/
+          #heading{
+                color: black;
+          }
+          #stormbreaker{
+                font-style: italic;
+        }
+        /*****************CLASS SELECTOR***************/
+        .anchor{
+            border-radius: 50%
+        }
